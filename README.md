@@ -15,7 +15,7 @@ A simple and responsive Weather App built with **React.js** that fetches real-ti
 ## 🛠️ Tech Stack
 - **React.js**
 - **OpenWeather API**
-- **CSS** (depending on what you used)
+- **CSS**
 
 ---
 
@@ -23,4 +23,4 @@ A simple and responsive Weather App built with **React.js** that fetches real-ti
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Dilip28-alt/weather-app.git
